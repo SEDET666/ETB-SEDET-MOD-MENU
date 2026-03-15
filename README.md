@@ -63,7 +63,6 @@
 需要额外下载ETBAssetGenPlus项目补齐其它资产后使用UE4.27.2修改并打包编译。
 
 # 🙏 致谢
-
 - 部分资产由 **Radio_Cixin** **[Mahirobox](https://github.com/MahiroBox)** 提供
 - 感谢 **Radio_Cixin** **[Mahirobox](https://github.com/MahiroBox)** 提供部分技术支持
 - 感谢所有填写问卷以及参与模组测试的玩家
