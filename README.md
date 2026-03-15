@@ -64,7 +64,7 @@
 
 ## 🙏 致谢
 - 部分资产由 **Radio_Cixin** **[Mahirobox](https://github.com/MahiroBox)** 提供
-- 感谢 **Radio_Cixin** **[Mahirobox](https://github.com/MahiroBox)** 提供部分技术支持
+- 感谢 **Radio_Cixin** **[Mahirobox](https://github.com/MahiroBox)** 提供技术支持
 - 感谢所有填写问卷以及参与模组测试的玩家
 
 ## ⚡ 免责声明
