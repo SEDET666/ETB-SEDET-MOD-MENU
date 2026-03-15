@@ -76,4 +76,8 @@
 
 ---
 
-**SteamID**: 76561199689713391 | **问题反馈**: Issues | **讨论**: Discussions
+<div align="center">
+
+**如果觉得这个项目有帮助，欢迎给个 ⭐ Star！**
+
+</div>
