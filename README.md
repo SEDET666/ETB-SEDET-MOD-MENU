@@ -36,7 +36,7 @@
 
 ## 🎮 快速上手
 
-1.  **下载**：去 [Releases](/releases) 页面下载最新版本。
+1.  **下载**：去 [Releases](https://github.com/SEDET666/ETB-SEDET-MOD-MENU/releases) 页面下载最新版本。
 2.  **放置**：解压文件到游戏目录或指定文件夹。
 3.  **启动**：运行注入程序或启动游戏。
 4.  **呼出**：游戏中按 **`F4`** 呼出菜单。
