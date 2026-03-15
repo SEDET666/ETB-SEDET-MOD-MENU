@@ -36,9 +36,9 @@
 
 ## 🎮 快速上手
 
-1.  **下载**：去 [Releases](https://github.com/SEDET666/ETB-SEDET-MOD-MENU/releases) 页面下载最新版本。
-2.  **放置**：解压文件到游戏目录或指定文件夹。
-3.  **启动**：运行注入程序或启动游戏。
+1.  **下载**：去 [Releases](https://github.com/SEDET666/ETB-SEDET-MOD-MENU/releases) 页面下载最新版本SEMOD_P.pak。
+2.  **放置**：去 [Quick](https://raw.githubusercontent.com/SEDET666/ETB-SEDET-MOD-MENU/refs/heads/main/Quick/QuickIns.exe) 下载快速安装工具。请确保已经启动了Steam并拥有逃离后室这款游戏。将SEMOD_P.pak放入QuickIns.exe所在目录。之后打开"QuickIns.exe"即可。不可以放在带有中文的路径里打开! 
+3.  **启动**：启动快速安装工具。
 4.  **呼出**：游戏中按 **`F4`** 呼出菜单。
 
 ### 默认快捷键
