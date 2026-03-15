@@ -62,6 +62,12 @@
 下载SEMOD源代码后.
 需要额外下载ETBAssetGenPlus项目补齐其它资产后使用UE4.27.2修改并打包编译。
 
+# 🙏 致谢
+
+- 部分资产由 **Radio_Cixin** **[Mahirobox](https://github.com/MahiroBox)** 提供
+- 感谢 **Radio_Cixin** **[Mahirobox](https://github.com/MahiroBox)** 提供部分技术支持
+- 感谢所有填写问卷以及参与模组测试的玩家
+
 ## ⚡ 免责声明
 
 本软件仅供学习交流与娱乐用途。请在单人模式或自己创建的服务器中使用。恶意修改代码在非主机使用导致的封号或其他后果，开发者概不负责。用脑子玩游戏，别搞事。
