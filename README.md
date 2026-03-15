@@ -1,7 +1,7 @@
 # SEDET MOD MENU V2
 ### 逃离后室多功能修改器 | 源码可用 | 非商业 | 极致体验
 
-[![版本](https://img.shields.io/badge/版本-V2.20-brightgreen)]()
+[![版本](https://img.shields.io/badge/版本-V2.23-brightgreen)]()
 [![许可协议](https://img.shields.io/badge/协议-PolyForm%20Noncommercial%201.0.0-blueviolet)]()
 [![游戏](https://img.shields.io/badge/游戏-Escape%20The%20Backrooms-orange)]()
 
@@ -57,6 +57,10 @@
 *   🛑 **限制**：你不得将本项目的代码闭源或更改为其他协议。
 
 详情请阅读下方的 LICENSE 文件内容。
+
+## 🔧 编译指南 (开发者)
+下载SEMOD源代码后.
+需要额外下载ETBAssetGenPlus项目补齐其它资产后编译。
 
 ## ⚡ 免责声明
 
