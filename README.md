@@ -9,18 +9,18 @@
 
 ## ⚠️ 这不仅仅是个菜单
 
-别再忍受枯燥的跑图和无聊的机制了。**SEDET MOD MENU V2** 是为《逃离后室》打造的终极修改器。无论是想做个快乐的探索者，还是成为后室的主宰，这玩意儿都能满足你。源码公开，免费使用，但别想拿去卖钱。
+别再忍受枯燥的跑图和无聊的机制了。**SEDET MOD MENU V2** 是为《逃离后室》打造的多功能修改器。无论是想做个快乐的探索者，还是成为后室的主宰，这玩意儿都能满足你。源码公开，免费使用，但别想拿去卖钱。
 
 ## 🚀 核心特性
 
 *   **懒人狂喜的一键安装**：告别复杂的文件替换和配置修改。下载，注入，开玩。三岁小孩都能搞定。
 *   **全能上帝模式**：
-    *   **地图控制**：实时监控本地服务器状态，管理关卡流送与缓存。
+    *   **地图切换**：切换关卡流送与缓存，可以指定只给某个玩家切换。
     *   **Actor 操控**：生成、删除、随意摆弄场景里的任何物件。调整位置、大小、旋转，打造你的专属关卡。
     *   **玩家强化**：飞行、灵魂出窍、无限体力、坐标保存。想去哪就去哪，实体根本摸不到你。
 *   **防作弊系统**：带有反作弊系统，防止恶意炸房及捣乱，保护你的游戏环境不被捣乱。
 *   **现代化 UI 设计**：透明菜单 + 自定颜色。界面清晰，分类明确，功能再多也不迷路。
-*   **自动更新检测**：每次启动自动检查最新版本，永远快人一步。
+*   **自动更新检测(将在V3版本中开启)**：每次启动自动检查最新版本，永远快人一步。
 
 ## 📸 界面预览
 
@@ -28,9 +28,9 @@
 
 | 主菜单概览 | Actor 管理 |
 | :---: | :---: |
-| ![主菜单](SEMOD_MainMenu.png) | ![Actor管理](SEMOD_ActorMenu.png) |
+| ![主菜单](https://raw.githubusercontent.com/SEDET666/ETB-SEDET-MOD-MENU/refs/heads/main/Pictures/SEMOD_MainMenu.png) | ![Actor管理](https://raw.githubusercontent.com/SEDET666/ETB-SEDET-MOD-MENU/refs/heads/main/Pictures/SEMOD_ActorMenu.png) |
 | **功能设置** | **玩家属性** |
-| ![功能设置](SEMOD_SettingsMenu.png) | ![玩家属性](SEMOD_PlayerMenu.png) |
+| ![功能设置](https://raw.githubusercontent.com/SEDET666/ETB-SEDET-MOD-MENU/refs/heads/main/Pictures/SEMOD_SettingsMenu.png) | ![玩家属性](https://raw.githubusercontent.com/SEDET666/ETB-SEDET-MOD-MENU/refs/heads/main/Pictures/SEMOD_PlayerMenu.png) |
 
 *(更多截图请移步网站(尚未开始运行))*
 
@@ -60,7 +60,7 @@
 
 ## ⚡ 免责声明
 
-本软件仅供学习交流与非娱乐用途。请在单人模式或允许 MOD 的服务器中使用。滥用导致的封号或其他后果，开发者概不负责。用脑子玩游戏，别搞事。
+本软件仅供学习交流与娱乐用途。请在单人模式或允许 MOD 的服务器中使用。滥用导致的封号或其他后果，开发者概不负责。用脑子玩游戏，别搞事。
 
 ---
 
