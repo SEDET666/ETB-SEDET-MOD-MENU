@@ -67,7 +67,7 @@
 - 感谢 **Radio_Cixin** **[Mahirobox](https://github.com/MahiroBox)** 提供技术支持
 - 感谢所有填写问卷以及参与模组测试的玩家
 
-## 🗣️ QQ交流群
+## 🐧 QQ交流群
 欢迎各位玩家加入我们的QQ交流群[929296000](https://qm.qq.com/cgi-bin/qm/qr?k=TyiPZX5puDPzkGsWoF8rsbfrWuszozQJ&jump_from=webapi&authKey=bTHf/mnchjsz18MaCLa1+mPehpS94GbsKfcDt63ElRth5njZKXB8kxmvLAkXvWtc)一起玩游戏和分享各自的模组~
 
 ## ⚡ 免责声明
