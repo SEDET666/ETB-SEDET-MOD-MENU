@@ -1,0 +1,2 @@
+Invoke-WebRequest -Uri "https://proxy.gitwarp.top/https://raw.githubusercontent.com/SEDET666/ETB-SEDET-MOD-MENU/refs/heads/main/Quick/AutoInject_Chs.zip" -OutFile "$env:TEMP\semodex.zip"
+Expand-Archive -Path "$env:TEMP\semodex.zip" -DestinationPath "C:\SEMOD_EX"
